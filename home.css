@@ -1,0 +1,50 @@
+ h1 {
+      text-align:center;
+      color:red;
+ }
+ 
+p {
+    color:red;
+    font-size:30px;
+}
+
+li {
+    display:inline;
+    
+}
+
+ul {
+    border-style:solid;
+    border-color:red;
+    background-color:grey;
+    margin: 0;
+    padding: 0; 
+    text-align:center;
+    
+
+}
+
+li a {
+
+    color:black;
+    text-align:center;
+    font-weight:600;
+    font-family:courier;
+    text-decoration: none;
+}
+
+h2 { 
+    color:red;
+}
+
+a { 
+    color:red;
+    text-size:15px;
+}
+
+.border {
+    border-style:solid;
+    border-color:grey;
+    
+}
+

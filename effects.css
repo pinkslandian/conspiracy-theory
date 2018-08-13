@@ -1,0 +1,32 @@
+h1 {
+    text-align:center;
+}
+
+body {
+    background-color:grey;
+}
+
+li {
+    display:inline;
+    
+}
+
+ul {
+    border-style:solid;
+    border-color:black;
+    background-color:grey;
+    margin: 0;
+    padding: 0; 
+    text-align:center;
+    
+
+}
+
+li a {
+
+    color:black;
+    text-align:center;
+    font-weight:600;
+    font-family:courier;
+    text-decoration: none;
+}
