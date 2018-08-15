@@ -2,9 +2,9 @@ h1 {
     text-align:center;
 }
 
-body {
-    background-color:grey;
-}
+/*body {*/
+/*    background-color:grey;*/
+/*}*/
 
 li {
     display:inline;
@@ -29,4 +29,12 @@ li a {
     font-weight:600;
     font-family:courier;
     text-decoration: none;
+}
+
+.background {
+     background: linear-gradient(grey, white);
+}
+
+.shadow {
+    text-shadow:inherit;
 }
